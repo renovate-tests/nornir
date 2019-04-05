@@ -23,7 +23,7 @@ mypy_extensions = "^0.4.1"
 pydantic = "^0.18.2"
 [tool.poetry.dev-dependencies]
 # https://github.com/jupyter/notebook/issues/4399
-tornado = "^5.1"
+tornado = "^6.0.0"
 decorator = "*"
 nbval = "*"
 pytest = "*"
